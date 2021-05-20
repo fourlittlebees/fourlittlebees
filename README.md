@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-# 🔭 I'm currently working on refreshing my skills in front-end development.
-# 💬 Ask me about HTML coding in the mid-90s. I can do a mean menuing system with Javascript and tables!
-# 😄 Pronouns: she/her
-# 😲 I speak SQL
+- 🔭 I'm currently working on refreshing my skills in front-end development.
+- 💬 Ask me about HTML coding in the mid-90s. I can do a mean menuing system with Javascript and tables!
+- 😄 Pronouns: she/her
+- 😲 I speak SQL
 
 <!--
 **fourlittlebees/fourlittlebees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
