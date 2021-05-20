@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### 🔭 I'm currently working on refreshing my skills in front-end development.
+
 <!--
 **fourlittlebees/fourlittlebees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
